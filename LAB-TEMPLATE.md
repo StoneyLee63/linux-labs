@@ -46,6 +46,11 @@ What changed in the system?
 
 ---
 
+## Evidence
+Include sample output snippets or command results when relevant.
+
+---
+
 ## Key Takeaways
 Bullet-point the main lessons learned.
 

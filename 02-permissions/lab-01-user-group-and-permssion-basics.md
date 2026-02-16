@@ -43,3 +43,10 @@ chmod
 Permissions are about least privilege.
 Every file and directory represents access control.
 Understanding ownership is critical before hardening a system.
+
+## Test Scenario
+
+Simulated a shared project directory where:
+- Only group members can modify files
+- Others have read-only access
+- Owner retains full control

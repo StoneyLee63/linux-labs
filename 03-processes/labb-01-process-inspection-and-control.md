@@ -53,3 +53,11 @@ Understanding:
 - How to stop it safely
 
 ...is foundational to system control.
+
+## Test Scenario
+
+Simulated a runaway CPU process using a loop.
+Identified PID.
+Attempted graceful shutdown.
+Escalated to SIGKILL when required.
+

@@ -1,7 +1,9 @@
-# Lab Title
+# Lab XX — Descriptive Technical Title
+
+---
 
 ## Objective
-Briefly state what skill or concept is being practiced and why it matters in Linux/system administration.
+Briefly state what skill or concept is being practiced and why it matters in Linux or system administration.
 
 ---
 
@@ -14,54 +16,87 @@ Briefly state what skill or concept is being practiced and why it matters in Lin
 
 ## Scenario
 Describe the practical situation being simulated.
+
 Example:
-"Simulating a misconfigured service" or
-"Testing shared directory permissions."
+- Simulating a misconfigured service  
+- Testing shared directory permissions  
+- Auditing process ownership  
+
+---
+
+## Technical Concepts Covered
+- Concept 1
+- Concept 2
+- Concept 3
+- Concept 4
 
 ---
 
 ## Commands Used
-List the commands executed during this lab.
 
-Example:
-- command1
-- command2
-- command3
+```bash
+# List commands exactly as executed
+```
 
 ---
 
 ## Procedure
-Step-by-step description of what was done.
 
-1.
-2.
-3.
+Step-by-step breakdown of actions performed.
+
+1. 
+2. 
+3. 
 
 ---
 
 ## Results
+
 What happened?
-Did it work as expected?
-What changed in the system?
+
+- Did it work as expected?
+- What changed in the system?
+- What output confirmed the behavior?
 
 ---
 
 ## Evidence
-Include sample output snippets or command results when relevant.
+
+Include relevant output snippets when necessary:
+
+```bash
+# Example output block
+```
+
+Avoid exposing:
+- API keys
+- Tokens
+- Private IPs
+- SSH private keys
 
 ---
 
 ## Key Takeaways
-Bullet-point the main lessons learned.
 
-- 
-- 
-- 
+- Lesson 1
+- Lesson 2
+- Lesson 3
+
+---
+
+## What This Demonstrates
+
+Translate results into system-level understanding.
+
+- What Linux enforced
+- What relationship was validated
+- What behavior was confirmed
 
 ---
 
 ## Security / Administration Relevance
-Explain how this connects to:
+
+Explain operational value:
 
 - System stability
 - Access control
@@ -69,3 +104,23 @@ Explain how this connects to:
 - Monitoring
 - Hardening
 - Troubleshooting
+- Incident response implications
+
+---
+
+## Time Spent
+__ minutes  
+(Execution + validation + documentation)
+
+### Time Tracking Rule
+- Start timer at hands-on execution.
+- Stop timer after documentation is complete.
+- Round to nearest 5 minutes.
+- Record honestly.
+- No lab is published without time logged.
+
+---
+
+## Conclusion
+
+Concise technical synthesis of what was validated and why it matters.
